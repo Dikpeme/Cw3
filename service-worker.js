@@ -1,6 +1,6 @@
 var cacheName = 'afterschoolclub-v1';
 var cacheFiles = [
-    'AfterSchoolClub.html',
+    'index.html',
     'afterschoolclub.webmanifest',
     'images/icon.png',
     'images/calc.png',
