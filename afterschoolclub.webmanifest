@@ -1,0 +1,15 @@
+{
+    "name" : "After school club",
+    "short_name" :"afterschoolclub",
+    "description" : "After school club for students",
+    "icons" : [
+        {
+            "src": "images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url" : "AfterSchoolClub.html",
+    "display" : "fullscreen",
+    "background_colour" : "#48406b"
+}
